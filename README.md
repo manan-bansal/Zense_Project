@@ -16,7 +16,7 @@ This project can be used to order daily needed items on flipkart simply by typin
 5) Then other family members/friends can join this group and order stuff they want.
 6) One thing to note is that since this project is aimed towards ordering daily used products,therefore daily preferred items are already stored in a list and can be accessed via numbers which are basically indeces of the list.
 7) One should provide his flipkart id and password in the beginning in the terminal once.
-8) One should also login on whatsapp web from the account used to send messages regarding order details to the users only once in the beginning of the program. 
+8) One should also login on whatsapp web from the account that will be used to send messages regarding order details to the users only once in the beginning of the program. 
 9) Once the login is done, the program is ready to take orders.
 
 
