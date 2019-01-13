@@ -25,4 +25,4 @@ This project can be used to order daily needed items on flipkart simply by typin
 9) Only one item code should be there in one line.
 10) The user should add STOP at the end when he is finished with the list.
 11) One important thing to note is that the user should not press the spacebar after typing the item code.
-12) Please refer the video for the format.
+12) Please refer the video for the format. (https://youtu.be/5aq52lLZaKo)
